@@ -1,4 +1,5 @@
 Hola:
 Esta es mi primera practica usando Git
-
+integrantes
 RONALDO LARROSA  
+MORAN JOAN
